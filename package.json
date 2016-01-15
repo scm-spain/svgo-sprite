@@ -1,0 +1,20 @@
+{
+  "name": "svg-sprite",
+  "version": "1.0.0",
+  "description": "Svg sprite and png fallback creation",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-batch": "^1.0.5",
+    "gulp-svg-sprite": "^1.2.19",
+    "gulp-svg2png": "^1.0.0",
+    "gulp-svgmin": "^1.2.0",
+    "gulp-watch": "^4.3.5",
+    "run-sequence": "^1.1.5"
+  }
+}
