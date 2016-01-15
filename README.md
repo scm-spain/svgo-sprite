@@ -1,5 +1,5 @@
-# Fotocasa SVG Icon Sprite
-### Workflow para crear el sprite de iconos SVG de fotocasa
+# SVG Icon Sprite
+### Workflow para crear un sprite de iconos SVG con fallback en PNG
 
 #### Automatización del proceso con Gulp:
 
